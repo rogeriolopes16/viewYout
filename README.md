@@ -1,1 +1,1 @@
-Robô que visualiza videos no Youtube automaticamente.
+Robô que visualiza videos automaticamente.
