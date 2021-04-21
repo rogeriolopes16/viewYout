@@ -55,7 +55,7 @@ class YoutubeBot:
 
             mouse.position = (607, 499)  # posiciona ponteiro no botão confirma reiniciar
             mouse.click(Button.left, 1)  # clica no posicionamento acima
-            time.sleep(180)
+            time.sleep(150)
         except:
             driver = self.driver
             driver.close()
