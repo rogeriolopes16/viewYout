@@ -1,0 +1,47 @@
+[33mcommit d7ed2f8be3bd8ae014e0fb6ba34ddf365274dcbc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Rogério Lopes <rogeriolopes.udi@gmail.com>
+Date:   Wed Apr 21 20:51:17 2021 -0300
+
+    Atualizando parametos
+
+[33mcommit dc4abe8e89a60a0797d5ac6cfd4bb0de37114c30[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Rogério Lopes <rogeriolopes.udi@gmail.com>
+Date:   Wed Apr 21 20:42:54 2021 -0300
+
+    Incluindo arquivo git ignore
+
+[33mcommit 3b4e7f55feb3d5ea15ac00de057531e7952f02aa[m
+Author: Rogério Lopes <rogeriolopes.udi@gmail.com>
+Date:   Wed Apr 21 10:57:02 2021 -0300
+
+    Atualização de parametros de execução
+
+[33mcommit 636fa8ef4c1d4753308b440eb2fcf0d995bd9f64[m
+Author: Rogério Lopes <rogeriolopes.udi@gmail.com>
+Date:   Wed Apr 21 00:14:51 2021 -0300
+
+    Inclusão de nos print de informação
+
+[33mcommit 8e1db1ebad305b178a049801566ec8e86f8737d1[m
+Author: Rogério Lopes <rogeriolopes.udi@gmail.com>
+Date:   Tue Apr 20 18:47:37 2021 -0300
+
+    Atualizando parametros de execução do Robô
+
+[33mcommit 91cdc99bcc59e2527562c09d4be6fb44b945a6b0[m
+Author: Rogério Lopes <rogeriolopes.udi@gmail.com>
+Date:   Tue Apr 20 18:35:41 2021 -0300
+
+    Atualizando o README
+
+[33mcommit 2e694191dd72d1fb28f355fc914455be1f7b1262[m
+Author: Rogério Lopes <rogeriolopes.udi@gmail.com>
+Date:   Tue Apr 20 17:59:53 2021 -0300
+
+    Alteração de descrição arquivo README
+
+[33mcommit fbf14092ec62cfa15e23a4d8896f7315275390e4[m
+Author: Rogério Lopes <rogeriolopes.udi@gmail.com>
+Date:   Tue Apr 20 17:58:10 2021 -0300
+
+    Primeiro commit robô visualizador de videos Youtube
