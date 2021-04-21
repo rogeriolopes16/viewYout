@@ -3,9 +3,9 @@ from random import randint
 
 if __name__ == '__main__':
     # Controles de execução
-    tempo_minimo_video = randint(500, 700)
-    tempo_maximo_video = randint(900, 1100)
-    quantidade_execucoes = randint(7, 12)
+    tempo_minimo_video = randint(555, 666)
+    tempo_maximo_video = randint(888, 999)
+    quantidade_execucoes = randint(2, 3)
 
     openYoutube = YoutubeBot(tempo_minimo_video, tempo_maximo_video)
     i = 0
