@@ -9,7 +9,7 @@ import pyperclip
 
 class YoutubeBot:
     def __init__(self, tempo_minimo_video, tempo_maximo_video):
-        self.driver = webdriver.Firefox(executable_path=r"../tools/geckodriver.exe")
+        self.driver = webdriver.Firefox(executable_path=r"d:/Rogerio/projects/viewYoutube/tools/geckodriver.exe")
         self.username = "admin"
         self.password = "4dbf8251"
         self.tempo_minimo_video = tempo_minimo_video
@@ -63,7 +63,7 @@ class YoutubeBot:
 
     @staticmethod
     def carrega_videos():
-        arquivo = open("../parameters/videos.txt", 'r')
+        arquivo = open("d:/Rogerio/projects/viewYoutube/parameters/videos.txt", 'r')
         videos = []
         for n in arquivo:
             videos.append(n.strip())
