@@ -1,4 +1,4 @@
-from viewYoutube import *
+from modules.viewYoutube import *
 from random import randint
 
 if __name__ == '__main__':
