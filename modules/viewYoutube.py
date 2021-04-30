@@ -54,7 +54,8 @@ class YoutubeBot:
         for n in arquivo:
             videos.append(n.strip())
         shuffle(videos)
-        return videos[:randint(3, 6)]
+        qtd_videos = randint(int(len(videos)/2), len(videos))
+        return videos[:qtd_videos]
 
     def watch_video(self):
         try:
