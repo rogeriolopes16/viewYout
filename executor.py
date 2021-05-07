@@ -5,7 +5,7 @@ if __name__ == '__main__':
     # Controles de execução
     tempo_minimo_video = 3
     tempo_maximo_video = 15
-    quantidade_execucoes = randint(29, 39)
+    quantidade_execucoes = randint(19, 29)
 
     openYoutube = YoutubeBot(tempo_minimo_video, tempo_maximo_video)
     i = 0

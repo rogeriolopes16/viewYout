@@ -55,6 +55,7 @@ class YoutubeBot:
             videos.append(n.strip())
         shuffle(videos)
         qtd_videos = randint(int(len(videos)/2), len(videos))
+        print(f"Quantidade de vídeos assistidos neste ciclo: {qtd_videos}")
         return videos[:qtd_videos]
 
     def watch_video(self):
